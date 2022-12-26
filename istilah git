@@ -1,0 +1,11 @@
+Istilah-istilah Git
+- repository / repo => project folder kita
+- commit => history dari suatu project 
+- hash => code unik penanda commit
+- checkout => berpindah dari sebuah commit
+- branch => cabang dari commit
+- merge => gabungan dari branch
+- remote => sumber yang memiliki repo
+- clone => mengambil repo dari remote
+- push => mengirimkan commit ke repo
+- pull => mengambil commit dari repo
